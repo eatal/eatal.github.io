@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ezra Tal"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "PhD Candidate at MIT, working on planning and control for high-speed robotics"
   location         : #""
   employer         :
