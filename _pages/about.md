@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate at the ...
+I'm a PhD candidate at the [Laboratory for Information and Decision Systems (LIDS)](https://lids.mit.edu){:target="_blank"} and the [Department of Aeronautics and Astronautics](https://aeroastro.mit.edu){:target="_blank"}. I work with [Prof. Sertac Karaman](http://karaman.mit.edu/){:target="_blank"} in the Autonomy and Embedded Robotics Accelerated (AERA) group.
+
+My research interests are in robotics, motion planning, and control. I am particularly interested in leveraging methods from robust control theory and differential games to safely bring fast and highly-maneuverable robots out of research labs and into the real world.
 
 News
 ======
