@@ -13,7 +13,7 @@ author_profile: true
 
 # Accurate Tracking of Aggressive Quadrotor Trajectories
 
-High-speed flight is receiving significant attention in robotics and control research.
+[![image](/images/hropto.jpg){: style="float: right" height="50%" width="34%"}](/images/hropto.jpg){:target="_blank"} High-speed flight is receiving significant attention in robotics and control research.
 It is an important problem towards the deployment of fast robotics in obstacle-rich environments where deviation from the reference trajectory can result in a collision.
 We focus on very accurate tracking of fast trajectories, e.g., within a few centimeters while maneuvering at speeds up to 50 km/h.
 This is challenging, since complex (unsteady) aerodynamics significantly affect the quadcopter dynamics at high speeds.
@@ -23,7 +23,7 @@ We leverage incremental nonlinear dynamic inversion (INDI) control to handle unm
 This method implicitly estimates and corrects aerodynamic forces and momenta without depending on an aerodynamics model.
 It thereby eliminates the need for (often time-consuming and complicated) modeling based on flight data, and results in a vehicle-independent controller.
 We use the INDI controller to track the trajectory position and yaw, and their derivatives velocity, acceleration, jerk, snap, yaw rate, and yaw acceleration.
-Tracking of snap and yaw acceleration is enabled by direct control over the torque applied to the vehicle by closed-loop motor speed control using optical encoders attached to each motor.
+Tracking of snap and yaw acceleration is enabled by direct control over the torque applied to the vehicle by closed-loop motor speed control using optical encoders attached to each motor (shown in picture).
 
 ### Publications and Media
 {: .no_toc}
@@ -42,7 +42,7 @@ youtu.be/M1lE9MlFmVA){:target="_blank"}, [PDF](/files/CDC18_1876.pdf){:target="_
 
 # Photorealistic Simulation for Robotics Research
 
-Simulation is essential for development and evaluation of robotics algorithms. Modern algorithms increasingly depend on visual sensors, like stereo cameras, which can be challenging to simulate.
+[![image](/images/flightgoggles.jpg){: style="float: right" width="45%"}](/images/flightgoggles.jpg){:target="_blank"} Simulation is essential for development and evaluation of robotics algorithms. Modern algorithms increasingly depend on visual sensors, like stereo cameras, which can be challenging to simulate.
 To enable photorealistic simulation of camera imagery, we developed FlightGoggles.
 FlightGoggles achieves photorealism by using environment elements based on photogrammetry.
 For this purpose we took thousands of photographs of real-world objects from different angles, and used them to generate photorealistic 3-D models.
@@ -71,7 +71,7 @@ Systems (IROS), November 2019 [Video](https://youtu.be/QCnU_M6DhYU){:target="_bl
 
 # Black-Box Optimization for Time-Optimal Maneuvering
 
-Planning time-optimal quadcopter maneuvers is a challenging and potentially risky task, since these maneuvers approach the physical limitations of the vehicle.
+[![image](/images/bayesopt.png){: style="float: right" height="50%" width="45%"}](/images/bayesopt.png){:target="_blank"} Planning time-optimal quadcopter maneuvers is a challenging and potentially risky task, since these maneuvers approach the physical limitations of the vehicle.
 Hence, precise knowledge of the dynamic feasibility constraints is required.
 This complicates the problem, as these feasibility constraints can become highly complex in light of high-acceleration flight and aggressive attitude changes, as required to achieve time optimality.
 The demanding maneuvers affect flight dynamics, but also hardware and software for control and state estimation.
@@ -93,7 +93,7 @@ The algorithm combines data from analytical approximation, numerical simulation,
 ***
 
 # Tensor Train Differential Games Dynamic Programming
-Differential games provide a widely applicable formulation for representing two-sided optimal control problems, e.g., pursuit-evasion or worst-case robust control scenarios.
+[![image](/images/pursuit.png){: style="float: right" height="50%" width="45%" margin="10"}](/images/pursuit.png){:target="_blank"} Differential games provide a widely applicable formulation for representing two-sided optimal control problems, e.g., pursuit-evasion or worst-case robust control scenarios.
 However, besides some special cases, such as linear-quadratic games, differential games can be challenging to solve.
 For this reason, computational methods are often resorted to.
 The downside of these algorithms is that they are typically unsuitable to address high-dimensional problems, i.e., problems with a large number of state variables. This is due to the _curse of dimensionality_, which entails an exponential scaling of computational cost and memory requirements with problem dimension.
