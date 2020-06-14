@@ -23,7 +23,7 @@ We leverage incremental nonlinear dynamic inversion (INDI) control to handle unm
 This method implicitly estimates and corrects aerodynamic forces and momenta without depending on an aerodynamics model.
 It thereby eliminates the need for (often time-consuming and complicated) modeling based on flight data, and results in a vehicle-independent controller.
 We use the INDI controller to track the trajectory position and yaw, and their derivatives velocity, acceleration, jerk, snap, yaw rate, and yaw acceleration.
-Tracking of snap and yaw acceleration is enabled by direct control over the torque applied to the vehicle by closed-loop motor speed control using optical encoders attached to each motor (shown in picture).
+Tracking of snap and yaw acceleration is enabled by direct control over the torque applied to the vehicle. To achieve this, we use optical encoders attached to each motor (shown in picture) to measure the motor speeds.
 
 ### Publications and Media
 {: .no_toc}
@@ -45,10 +45,10 @@ youtu.be/M1lE9MlFmVA){:target="_blank"}, [PDF](/files/CDC18_1876.pdf){:target="_
 [![image](/images/flightgoggles.jpg){: style="float: right" width="45%"}](/images/flightgoggles.jpg){:target="_blank"} Simulation is essential for development and evaluation of robotics algorithms. Modern algorithms increasingly depend on visual sensors, like stereo cameras, which can be challenging to simulate.
 To enable photorealistic simulation of camera imagery, we developed FlightGoggles.
 FlightGoggles achieves photorealism by using environment elements based on photogrammetry.
-For this purpose we took thousands of photographs of real-world objects from different angles, and used them to generate photorealistic 3-D models.
+We took thousands of photographs of real-world objects from different angles, and used them to generate photorealistic 3-D models.
 The FlightGoggles _Abandoned Factory_ environment contains over a thousand assets, comprised of 84 unique models.
 
-FlightGoggles can be used as a standalone simulation tool, but can also be combined with actual vehicles in flight. In essence, it is as if we give a pair of virtual reality goggles to the quadcopter. We fly the vehicle under motion capture and use its measured position and orientation to determine the frame of the virtual camera. The camera image is rendered in real time and sent to the on-board computer in flight. As such, the quadcopter is flying in our safe, netted flight room, while it receives real-time camera images as if it is navigating an obstacle-rich virtual environment.
+FlightGoggles can be used as a standalone simulation tool, but can also be combined with actual vehicles in flight. In essence, it is as if we give a pair of virtual reality goggles to the quadcopter. We fly the vehicle under motion capture and use its measured position and orientation to determine the frame of the virtual camera. The camera image is rendered in real time and sent to the on-board computer in flight. While the quadcopter is safely flying in our netted flight room, it receives real-time camera images as if it is navigating an obstacle-rich virtual environment.
 
 FlightGoggles was used by teams from around the world during the simulation challenge of the AlphaPilot Autonomous Drone Racing Competition. Teams developed planning, estimation, and control algorithms to participate in a virtual drone race in FlightGoggles. The most successful teams qualified for the racing circuit in which they implemented their algorithms on actual drones.
  
@@ -73,7 +73,7 @@ Systems (IROS), November 2019 [Video](https://youtu.be/QCnU_M6DhYU){:target="_bl
 
 [![image](/images/bayesopt.png){: style="float: right" height="50%" width="45%"}](/images/bayesopt.png){:target="_blank"} Planning time-optimal quadcopter maneuvers is a challenging and potentially risky task, since these maneuvers approach the physical limitations of the vehicle.
 Hence, precise knowledge of the dynamic feasibility constraints is required.
-This complicates the problem, as these feasibility constraints can become highly complex in light of high-acceleration flight and aggressive attitude changes, as required to achieve time optimality.
+These feasibility constraints can become highly complex in light of high-acceleration flight and aggressive attitude changes.
 The demanding maneuvers affect flight dynamics, but also hardware and software for control and state estimation.
 Unsteady aerodynamic effects, control and actuation bandwidth, estimation delays etc. need to be considered.
 The resulting constrains are not easily expressed in a convenient way and can only be identified through costly flight experiments.
@@ -94,13 +94,13 @@ The algorithm combines data from analytical approximation, numerical simulation,
 
 # Tensor Train Differential Games Dynamic Programming
 [![image](/images/pursuit.png){: style="float: right" height="50%" width="45%" margin="10"}](/images/pursuit.png){:target="_blank"} Differential games provide a widely applicable formulation for representing two-sided optimal control problems, e.g., pursuit-evasion or worst-case robust control scenarios.
-However, besides some special cases, such as linear-quadratic games, differential games can be challenging to solve.
+However, besides some special cases, such as linear-quadratic games, differential games can be challenging to solve exactly.
 For this reason, computational methods are often resorted to.
 The downside of these algorithms is that they are typically unsuitable to address high-dimensional problems, i.e., problems with a large number of state variables. This is due to the _curse of dimensionality_, which entails an exponential scaling of computational cost and memory requirements with problem dimension.
 
-We leverage the tensor train decomposition to avoid the exponential cost. This decomposition can be seen as a multi-dimensional generalization of the singular value decomposition (SVD).
+We leverage the tensor train decomposition to avoid exponential cost. This decomposition can be seen as a multi-dimensional generalization of the singular value decomposition (SVD).
 Using the tensor train decomposition, we obtain a rank-limited approximation of the differential game value function at polynomial cost (instead of exponential cost).
-This favorable scaling with problem dimension, makes our algorithm suitable for addressing high-dimensional problems that were previously infeasible. 
+This favorable scaling with problem dimension makes our algorithm suitable for addressing high-dimensional problems that would otherwise be infeasible. 
 
 ### Publications and Media
 {: .no_toc}
