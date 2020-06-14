@@ -40,6 +40,6 @@ youtu.be/M1lE9MlFmVA){:target="_blank"}, [PDF](/files/CDC18_1876.pdf){:target="_
 
 ## Book Chapter
 
-* **Tal, E.**, Shima, T., Differential Games Based Autonomous Rendezvous for Aerial Refueling, Advances in Guidance, Navigation and Control, pp. 167 - 185, edited by Bordeneuve-Guib\'{e}, J., Drouin, A., Roos, C., Springer International, Switzerland, 2015 [PDF](/files/TalShima_EuroGNC2015.pdf){:target="_blank"}
+* **Tal, E.**, Shima, T., Differential Games Based Autonomous Rendezvous for Aerial Refueling, Advances in Guidance, Navigation and Control, pp. 167 - 185, edited by Bordeneuve-Guibe, J., Drouin, A., Roos, C., Springer International, Switzerland, 2015 [PDF](/files/TalShima_EuroGNC2015.pdf){:target="_blank"}
 
 * Blume, S., Dhert, T., Eiche, E., Hofstede E. ter, Hollander, B., Huber, S., **Tal, E.**, Vanoverbeke, K., Zheng, Z., The Aircraft Noise Monitoring System, Delft Aerospace Design Projects, pp. 275 - 286, edited by Melkert, J., Het Goede Boek, Huizen, 2012
