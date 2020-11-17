@@ -12,7 +12,7 @@ author_profile: true
 
 ## Conference
 
-* Ryou, G., **Tal, E.**, Karaman, S., Multi-Fidelity Black-Box Optimization for Time-Optimal Quadrotor Maneuvers, Robotics: Science and Systems (RSS), July 2020 [Video](https://youtu.be/igwULi_H1Kg){:target="_blank"}, [PDF](https://arxiv.org/pdf/2006.02513.pdf){:target="_blank"}
+* Ryou, G., **Tal, E.**, Karaman, S., Multi-Fidelity Black-Box Optimization for Time-Optimal Quadrotor Maneuvers, Robotics: Science and Systems (RSS), July 2020 **Finalist _Best Student Paper_** [Video](https://youtu.be/igwULi_H1Kg){:target="_blank"}, [PDF](https://arxiv.org/pdf/2006.02513.pdf){:target="_blank"}
 	
 * Bronz, M., **Tal, E.**, Federico, F., Karaman, S., Mission-Oriented Additive Manufacturing of Modular Mini-UAVs, AIAA Science and Technology Forum, January 2020 **Awarded _Best in Session_** [PDF](/files/BronzTalSciTech2020.pdf){:target="_blank"}
 	
