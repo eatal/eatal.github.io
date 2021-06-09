@@ -6,11 +6,17 @@ author_profile: true
 
 {% include base_path %}
 
+## Pre-print
+
+* Guerra, W., **Tal, E.**, Murali, V., Ryou, G., Karaman, S., FlightGoggles:  A  Modular  Framework  forPhotorealistic  Camera,  Exteroceptive  Sensor,  and  Dynamics  Simulation [Video](https://youtu.be/qoUlbSAiRko){:target="_blank"}, [PDF](https://arxiv.org/pdf/1905.11377.pdf){:target="_blank"}, [Website](https://flightgoggles.mit.edu/){:target="_blank"}, [GitHub](https://github.com/mit-aera/FlightGoggles){:target="_blank"}
+
 ## Journal
 
-* **Tal, E.**, Karaman, S., Accurate Tracking of Aggressive Quadrotor Trajectories using Incremental Nonlinear Dynamic Inversion and Differential Flatness, IEEE Transactions on Control Systems Technology, In press [Video](https://youtu.be/K15lNBAKDCs){:target="_blank"}, [PDF](https://arxiv.org/pdf/1809.04048.pdf){:target="_blank"}
+* **Tal, E.**, Karaman, S., Accurate Tracking of Aggressive Quadrotor Trajectories using Incremental Nonlinear Dynamic Inversion and Differential Flatness, IEEE Transactions on Control Systems Technology, vol. 29, no. 3, pp. 1203-1218, May 2021 [Video](https://youtu.be/K15lNBAKDCs){:target="_blank"}, [PDF](https://arxiv.org/pdf/1809.04048.pdf){:target="_blank"}
 
 ## Conference
+
+* Lao Beyer, L., Balabanska, N., **Tal, E.**, Karaman, S., Multi-Modal Motion Planning Using Composite Pose Graph Optimization, IEEE International Conference on Robotics and Automation (ICRA), June 2021
 
 * Ryou, G., **Tal, E.**, Karaman, S., Multi-Fidelity Black-Box Optimization for Time-Optimal Quadrotor Maneuvers, Robotics: Science and Systems (RSS), July 2020 **Finalist _Best Student Paper_** [Video](https://youtu.be/igwULi_H1Kg){:target="_blank"}, [PDF](https://arxiv.org/pdf/2006.02513.pdf){:target="_blank"}
 	

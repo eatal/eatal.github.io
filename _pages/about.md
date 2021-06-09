@@ -15,6 +15,10 @@ My research interests are in robotics, motion planning, and control. I am partic
 News
 ======
 
+* **June 2021** Our work on *Multi-Modal Motion Planning Using Composite Pose Graph Optimization* will be presented at 2021 IEEE International Conference on Robotics and Automation (ICRA).
+
+* **May 2021** We released a major update for FlightGoggles, including a photogrammetric model of the MIT Stata Center, new rendering settings, and a Python API. Check out our new website [https://flightgoggles.mit.edu](https://flightgoggles.mit.edu){:target="_blank"},  and the updated pre-print on [arXiv](https://arxiv.org/abs/1905.11377){:target="_blank"}.
+
 * **November 2020** I will give a talk on [Sensor-based Control for Fast and Agile Aerial Robotics](https://lids.mit.edu/news-and-events/events/sensor-based-control-fast-and-agile-aerial-robotics){:target="_blank"} at MIT.
 
 * **July 2020** Our RSS 2020 paper [Multi-Fidelity Black-Box Optimization for Time-Optimal Quadrotor Maneuvers](https://roboticsconference.org/program/papers/32/){:target="_blank"} has been selected as a **Finalist for Best Student Paper**.
