@@ -8,7 +8,7 @@ author_profile: true
 
 ## Pre-print
 
-* Guerra, W., **Tal, E.**, Murali, V., Ryou, G., Karaman, S., FlightGoggles:  A  Modular  Framework  forPhotorealistic  Camera,  Exteroceptive  Sensor,  and  Dynamics  Simulation [Video](https://youtu.be/qoUlbSAiRko){:target="_blank"}, [PDF](https://arxiv.org/pdf/1905.11377.pdf){:target="_blank"}, [Website](https://flightgoggles.mit.edu/){:target="_blank"}, [GitHub](https://github.com/mit-aera/FlightGoggles){:target="_blank"}
+* Guerra, W., **Tal, E.**, Murali, V., Ryou, G., Karaman, S., FlightGoggles:  A  Modular  Framework  for Photorealistic  Camera,  Exteroceptive  Sensor,  and  Dynamics  Simulation [Video](https://youtu.be/qoUlbSAiRko){:target="_blank"}, [PDF](https://arxiv.org/pdf/1905.11377.pdf){:target="_blank"}, [Website](https://flightgoggles.mit.edu/){:target="_blank"}, [GitHub](https://github.com/mit-aera/FlightGoggles){:target="_blank"}
 
 ## Journal
 
