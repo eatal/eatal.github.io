@@ -38,6 +38,12 @@ Tracking of snap and yaw acceleration is enabled by direct control over the torq
 * **Tal, E.**, Karaman, S., Accurate Tracking of Aggressive Quadrotor Trajectories using Incremental Nonlinear Dynamic Inversion and Differential Flatness, IEEE Conference on Decision and Control (CDC), December 2018 [Video](https://
 youtu.be/M1lE9MlFmVA){:target="_blank"}, [PDF](/files/CDC18_1876.pdf){:target="_blank"}
 
+<div style="text-align: right"> 
+<a href="#site-nav" class="back-to-top">
+  Back to Top &uarr;
+</a>
+</div>
+
 ***
 
 # Photorealistic Simulation for Robotics Research
@@ -67,6 +73,12 @@ Systems (IROS), November 2019 [Video](https://youtu.be/QCnU_M6DhYU){:target="_bl
 
 * Sayre-McCord, T., Guerra, W., Antonini, A., Arneberg, J., Brown, A., Cavalheiro, G., Fang, Y., Gorodetsky, A., McCoy, D., Quilter, S., Riether, F., **Tal, E.**, Terzioglu, Y., Carlone, L., Karaman, S., Visual-inertial navigation algorithm development using photorealistic camera simulation in the loop, IEEE International Conference on Robotics and Automation (ICRA), May 2018 [Video](https://youtu.be/_VBww8YQuA8){:target="_blank"}, [PDF](/files/SayreMcCordetal_IROS18.pdf){:target="_blank"}
 
+<div style="text-align: right"> 
+<a href="#site-nav" class="back-to-top">
+  Back to Top &uarr;
+</a>
+</div>
+
 ***
 
 # Black-Box Optimization for Time-Optimal Maneuvering
@@ -92,6 +104,12 @@ The algorithm combines data from analytical approximation, numerical simulation,
 
 * Ryou, G., **Tal, E.**, Karaman, S., Multi-Fidelity Black-Box Optimization for Time-Optimal Quadrotor Maneuvers, Robotics: Science and Systems (RSS), July 2020 [Video](https://youtu.be/igwULi_H1Kg){:target="_blank"}, [PDF](https://arxiv.org/pdf/2006.02513.pdf){:target="_blank"}
 
+<div style="text-align: right"> 
+<a href="#site-nav" class="back-to-top">
+  Back to Top &uarr;
+</a>
+</div>
+
 ***
 
 # Tensor Train Differential Games Dynamic Programming
@@ -107,3 +125,9 @@ This favorable scaling with problem dimension makes our algorithm suitable for a
 ### Publications and Media
 {: .no_toc}
 * **Tal, E.**, Gorodetsky, A., Karaman, S., Continuous tensor train-based dynamic programming for high-dimensional zero-sum differential games, American Control Conference (ACC), June 2018 [PDF](/files/TalGorodetskyKaraman_ACC2018.pdf){:target="_blank"}
+
+<div style="text-align: right"> 
+<a href="#site-nav" class="back-to-top">
+  Back to Top &uarr;
+</a>
+</div>
