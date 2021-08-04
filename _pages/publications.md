@@ -12,11 +12,18 @@ author_profile: true
 
 ## Journal
 
+* Ryou, G., **Tal, E.**, Karaman, S., Multi-Fidelity Black-Box Optimization for Time-Optimal Quadrotor Maneuvers, The International Journal of Robotics Research (IJRR), July 2021 [Video](https://youtu.be/igwULi_H1Kg){:target="_blank"}, [PDF](https://arxiv.org/pdf/2006.02513.pdf){:target="_blank"}, [GitHub](https://github.com/mit-aera/){:target="_blank"}
+
 * **Tal, E.**, Karaman, S., Accurate Tracking of Aggressive Quadrotor Trajectories using Incremental Nonlinear Dynamic Inversion and Differential Flatness, IEEE Transactions on Control Systems Technology, vol. 29, no. 3, pp. 1203-1218, May 2021 [Video](https://youtu.be/K15lNBAKDCs){:target="_blank"}, [PDF](https://arxiv.org/pdf/1809.04048.pdf){:target="_blank"}
 
 ## Conference
 
-* Lao Beyer, L., Balabanska, N., **Tal, E.**, Karaman, S., Multi-Modal Motion Planning Using Composite Pose Graph Optimization, IEEE International Conference on Robotics and Automation (ICRA), June 2021
+* **Tal, E.**, Karaman, S., Global Trajectory-tracking Control for a Tailsitter Flying Wing in Agile Uncoordinated Flight, AIAA Aviation Forum, August 2021 [Video](https://youtu.be/tGQO-6DPT1M){:target="_blank"}, [PDF](/files/TalKaraman_Aviation2021.pdf){:target="_blank"}
+
+* Biberstein, J., **Tal, E.**, Karaman, S., Thrust Vectoring of Small-scale Solid Rocket Motors Using Additively Manufactured Jet Vanes, AIAA Propulsion and Energy Forum, August 2021 [PDF](/files/BibersteinTalKaraman_PropEnergy2021.pdf){:target="_blank"}
+
+* Lao Beyer, L., Balabanska, N., **Tal, E.**, Karaman, S., Multi-Modal Motion Planning Using Composite Pose Graph Optimization, IEEE International Conference on Robotics and Automation (ICRA), June 2021 [Video](https://
+youtu.be/XdUtyGu3p1o){:target="_blank"}, [PDF](https://arxiv.org/pdf/2107.02384.pdf){:target="_blank"}
 
 * Ryou, G., **Tal, E.**, Karaman, S., Multi-Fidelity Black-Box Optimization for Time-Optimal Quadrotor Maneuvers, Robotics: Science and Systems (RSS), July 2020 **Finalist _Best Student Paper_** [Video](https://youtu.be/igwULi_H1Kg){:target="_blank"}, [PDF](https://arxiv.org/pdf/2006.02513.pdf){:target="_blank"}
 	

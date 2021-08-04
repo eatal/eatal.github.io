@@ -15,7 +15,14 @@ My research interests are in robotics, motion planning, and control. I am partic
 News
 ======
 
-* **June 2021** Our work on *Multi-Modal Motion Planning Using Composite Pose Graph Optimization* will be presented at 2021 IEEE International Conference on Robotics and Automation (ICRA).
+* **August 2021** Our new paper on trajectory-tracking flight control for a tailsitter flying wing will be presented at AIAA Aviation 2021 [Video](https://youtu.be/tGQO-6DPT1M){:target="_blank"}, [PDF](/files/TalKaraman_Aviation2021.pdf){:target="_blank"}.
+
+* **August 2021** We'll present our paper on 3D-printed jet vanes for thrust vectoring rockets at AIAA Propulsion and Energy Forum 2021 [PDF](/files/BibersteinTalKaraman_PropEnergy2021.pdf){:target="_blank"}.
+
+* **July 2021** Our work on Multi-Fidelity Bayesian Optimization of Quadrotor Maneuvers has been accepted for publication in The International Journal of Robotics Research (IJRR). It is now available on the [IJRR website](https://doi.org/10.1177%2F02783649211033317){:target="_blank"}.
+
+* **June 2021** Our work on Multi-Modal Motion Planning Using Composite Pose Graph Optimization will be presented at 2021 IEEE International Conference on Robotics and Automation (ICRA) [Video](https://
+youtu.be/XdUtyGu3p1o){:target="_blank"}, [PDF](https://arxiv.org/pdf/2107.02384.pdf){:target="_blank"}.
 
 * **May 2021** We released a major update for FlightGoggles, including a photogrammetric model of the MIT Stata Center, new rendering settings, and a Python API. Check out our new website [https://flightgoggles.mit.edu](https://flightgoggles.mit.edu){:target="_blank"},  and the updated pre-print on [arXiv](https://arxiv.org/abs/1905.11377){:target="_blank"}.
 

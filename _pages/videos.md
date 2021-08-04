@@ -15,13 +15,31 @@ author_profile: true
 ***
 
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/QCnU_M6DhYU" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/qoUlbSAiRko" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+***
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/tGQO-6DPT1M" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 ***
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/igwULi_H1Kg" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+***
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/XdUtyGu3p1o" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+***
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/QCnU_M6DhYU" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 ***

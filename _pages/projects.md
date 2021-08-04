@@ -57,7 +57,7 @@ FlightGoggles was used by teams from around the world during the simulation chal
 {: .no_toc}
 
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/QCnU_M6DhYU" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/qoUlbSAiRko" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 * Guerra, W., **Tal, E.**, Murali, V., Ryou, G., Karaman, S., FlightGoggles: Photorealistic Sensor Simulation for Perception-driven Robotics using Photogrammetry and Virtual Reality, IEEE/RSJ International Conference on Intelligent Robots and
@@ -87,6 +87,8 @@ The algorithm combines data from analytical approximation, numerical simulation,
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/igwULi_H1Kg" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
+
+* Ryou, G., **Tal, E.**, Karaman, S., Multi-Fidelity Black-Box Optimization for Time-Optimal Quadrotor Maneuvers, The International Journal of Robotics Research (IJRR), July 2021
 
 * Ryou, G., **Tal, E.**, Karaman, S., Multi-Fidelity Black-Box Optimization for Time-Optimal Quadrotor Maneuvers, Robotics: Science and Systems (RSS), July 2020 [Video](https://youtu.be/igwULi_H1Kg){:target="_blank"}, [PDF](https://arxiv.org/pdf/2006.02513.pdf){:target="_blank"}
 
