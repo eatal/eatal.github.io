@@ -1,0 +1,11 @@
+.vid-item {
+    width: 200px;
+    float:left; /* add this */
+    overflow: auto;
+    padding-right: 30px;
+}
+
+.vid-title {
+    width: 100%;
+    float:left; /* add this */
+}
