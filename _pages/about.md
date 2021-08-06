@@ -15,6 +15,9 @@ My research interests are in robotics, motion planning, and control. I am partic
 News
 ======
 
+* **August 2021** Our AIAA Aviation 2021 paper on Global Trajectory-tracking Control for a Tailsitter Flying Wing in Agile Uncoordinated Flight has been awarded **Best Student Paper in V/STOL Aircraft Systems**!
+[![image](/images/vstol.jpeg){:width="55%" margin="10"}](/images/vstol.jpeg){:target="_blank"}
+
 * **August 2021** Our new paper on trajectory-tracking flight control for a tailsitter flying wing will be presented at AIAA Aviation 2021 [Video](https://youtu.be/tGQO-6DPT1M){:target="_blank"}, [PDF](/files/TalKaraman_Aviation2021.pdf){:target="_blank"}.
 
 * **August 2021** We'll present our paper on 3D-printed jet vanes for thrust vectoring rockets at AIAA Propulsion and Energy Forum 2021 [PDF](/files/BibersteinTalKaraman_PropEnergy2021.pdf){:target="_blank"}.
