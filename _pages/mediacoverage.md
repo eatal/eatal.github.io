@@ -8,6 +8,11 @@ author_profile: true
 
 ***
 
+### [System trains drones to fly around obstacles at high speeds](https://news.mit.edu/2021/drones-speed-route-system-0810){:target="_blank"}
+![MIT News](/images/logos/mitnews.png){:height="50%" width="20%"} MIT News, August 2021
+
+***
+
 ### [What a Drone Sees](https://spectrum.mit.edu/fall-2019/what-a-drone-sees/){:target="_blank"}
 ![MIT Spectrum](/images/logos/spectrum.png){:height="50%" width="20%"} MIT Spectrum, Fall 2019
 

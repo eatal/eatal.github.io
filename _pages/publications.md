@@ -12,7 +12,7 @@ author_profile: true
 
 ## Journal
 
-* Ryou, G., **Tal, E.**, Karaman, S., Multi-Fidelity Black-Box Optimization for Time-Optimal Quadrotor Maneuvers, The International Journal of Robotics Research (IJRR), July 2021 [Video](https://youtu.be/igwULi_H1Kg){:target="_blank"}, [PDF](https://arxiv.org/pdf/2006.02513.pdf){:target="_blank"}, [GitHub](https://github.com/mit-aera/){:target="_blank"}
+* Ryou, G., **Tal, E.**, Karaman, S., Multi-Fidelity Black-Box Optimization for Time-Optimal Quadrotor Maneuvers, The International Journal of Robotics Research (IJRR), July 2021 [Video](https://youtu.be/FjCIZ5lSRg0){:target="_blank"}, [PDF](https://arxiv.org/pdf/2006.02513.pdf){:target="_blank"}, [GitHub](https://github.com/mit-aera/){:target="_blank"}
 
 * **Tal, E.**, Karaman, S., Accurate Tracking of Aggressive Quadrotor Trajectories using Incremental Nonlinear Dynamic Inversion and Differential Flatness, IEEE Transactions on Control Systems Technology, vol. 29, no. 3, pp. 1203-1218, May 2021 [Video](https://youtu.be/K15lNBAKDCs){:target="_blank"}, [PDF](https://arxiv.org/pdf/1809.04048.pdf){:target="_blank"}
 

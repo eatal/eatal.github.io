@@ -15,7 +15,9 @@ My research interests are in robotics, motion planning, and control. I am partic
 News
 ======
 
-* **August 2021** Our AIAA Aviation 2021 paper on Global Trajectory-tracking Control for a Tailsitter Flying Wing in Agile Uncoordinated Flight has been awarded **Best Student Paper in V/STOL Aircraft Systems**!
+* **August 2021** MIT News published an article about our research on multi-fidelity trajectory optimization: [MIT News](https://news.mit.edu/2021/drones-speed-route-system-0810){:target="_blank"}.
+
+* **August 2021** Our AIAA Aviation 2021 paper on Global Trajectory-tracking Control for a Tailsitter Flying Wing in Agile Uncoordinated Flight has been awarded **Best Student Paper in V/STOL Aircraft Systems**!  
 [![image](/images/vstol.jpeg){:width="55%" margin="10"}](/images/vstol.jpeg){:target="_blank"}
 
 * **August 2021** Our new paper on trajectory-tracking flight control for a tailsitter flying wing will be presented at AIAA Aviation 2021 [Video](https://youtu.be/tGQO-6DPT1M){:target="_blank"}, [PDF](/files/TalKaraman_Aviation2021.pdf){:target="_blank"}.
@@ -31,7 +33,7 @@ youtu.be/XdUtyGu3p1o){:target="_blank"}, [PDF](https://arxiv.org/pdf/2107.02384.
 
 * **November 2020** I will give a talk on [Sensor-based Control for Fast and Agile Aerial Robotics](https://lids.mit.edu/news-and-events/events/sensor-based-control-fast-and-agile-aerial-robotics){:target="_blank"} at MIT.
 
-* **July 2020** Our RSS 2020 paper [Multi-Fidelity Black-Box Optimization for Time-Optimal Quadrotor Maneuvers](https://roboticsconference.org/program/papers/32/){:target="_blank"} has been selected as a **Finalist for Best Student Paper**.
+* **July 2020** Our RSS 2020 paper [Multi-Fidelity Black-Box Optimization for Time-Optimal Quadrotor Maneuvers](https://roboticsconference.org/program/papers/32/){:target="_blank"} has been selected as a **Finalist for Best Student Paper**.  
 [![image](/images/rss_beststudentpaper_nominees.jpeg){:width="55%" margin="10"}](/images/rss_beststudentpaper_nominees.jpeg){:target="_blank"}
 
 * **June 2020** Our RSS 2020 paper on black-box optimization for time-optimal quadrotor maneuvers is now available on [arXiv](https://arxiv.org/abs/2006.02513){:target="_blank"}, and the corresponding video can be viewed on [YouTube](https://youtu.be/igwULi_H1Kg){:target="_blank"}.
