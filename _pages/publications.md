@@ -18,7 +18,7 @@ author_profile: true
 
 ## Conference
 
-* **Tal, E.**, Karaman, S., Global Trajectory-tracking Control for a Tailsitter Flying Wing in Agile Uncoordinated Flight, AIAA Aviation Forum, August 2021 [Video](https://youtu.be/tGQO-6DPT1M){:target="_blank"}, [PDF](/files/TalKaraman_Aviation2021.pdf){:target="_blank"}
+* **Tal, E.**, Karaman, S., Global Trajectory-tracking Control for a Tailsitter Flying Wing in Agile Uncoordinated Flight, AIAA Aviation Forum, August 2021 **Awarded _Best Student Paper in V/STOL Aircraft Systems_** [Video](https://youtu.be/tGQO-6DPT1M){:target="_blank"}, [PDF](/files/TalKaraman_Aviation2021.pdf){:target="_blank"}
 
 * Biberstein, J., **Tal, E.**, Karaman, S., Thrust Vectoring of Small-scale Solid Rocket Motors Using Additively Manufactured Jet Vanes, AIAA Propulsion and Energy Forum, August 2021 [PDF](/files/BibersteinTalKaraman_PropEnergy2021.pdf){:target="_blank"}
 
