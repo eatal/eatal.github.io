@@ -8,12 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate at the [Laboratory for Information and Decision Systems (LIDS)](https://lids.mit.edu){:target="_blank"} and the [Department of Aeronautics and Astronautics](https://aeroastro.mit.edu){:target="_blank"}. I work with [Prof. Sertac Karaman](http://karaman.mit.edu/){:target="_blank"} in the Autonomy and Embedded Robotics Accelerated (AERA) group.
+I'm a postdoc at the [Laboratory for Information and Decision Systems (LIDS)](https://lids.mit.edu){:target="_blank"} and the [Department of Aeronautics and Astronautics](https://aeroastro.mit.edu){:target="_blank"}, where I work with [Prof. Sertac Karaman](http://karaman.mit.edu/){:target="_blank"} in the Autonomy and Embedded Robotics Accelerated (AERA) group.
 
-My research interests are in robotics, motion planning, and control. I am particularly interested in leveraging methods from robust control theory and differential games to safely bring fast and highly-maneuverable robots out of research labs and into the real world.
+I am an applied researcher, in love with fundamental science.
+My research on innovative mobile autonomy is at the intersection of aerospace/mechanical engineering and robotics, and
+combines aspects of control theory and motion planning with machine learning, optimization, applied aerodynamics, and vehicle and electronics design.
+I am particularly interested in leveraging methods from robust control theory and differential games to safely bring fast and highly-maneuverable robots out of research labs and into the real world.
+
 
 News
 ======
+
+* **October 2021** I successfully defended and submitted my PhD thesis on Algorithms for Generation and Tracking of Fast and Agile Flight Trajectories!
 
 * **August 2021** MIT News published an article about our research on multi-fidelity trajectory optimization: [MIT News](https://news.mit.edu/2021/drones-speed-route-system-0810){:target="_blank"}.
 
