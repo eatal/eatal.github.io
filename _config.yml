@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ezra Tal"
 title_separator          : "-"
 name                     : &name "Ezra Tal"
-description              : &description "Postdoc at MIT"
+description              : &description "Research Scientist at MIT"
 url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ezra Tal"
   avatar           : "profile.jpg"
-  bio              : "Postdoc at MIT, working on planning and control for fast and highly-maneuverable robots."
+  bio              : "Research Scientist at MIT, working on planning and control for fast and highly-maneuverable robots."
   location         : #""
   employer         :
   pubmed           : #""

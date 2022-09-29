@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my website!"
+title: "Ezra Tal: Research Scientist, LIDS, MIT"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postdoc at the [Laboratory for Information and Decision Systems (LIDS)](https://lids.mit.edu){:target="_blank"} and the [Department of Aeronautics and Astronautics](https://aeroastro.mit.edu){:target="_blank"}, where I work with [Prof. Sertac Karaman](http://karaman.mit.edu/){:target="_blank"} in the Autonomy and Embedded Robotics Accelerated (AERA) group.
+I am a Research Scientist at the [Laboratory for Information and Decision Systems (LIDS)](https://lids.mit.edu){:target="_blank"}, where I work with [Prof. Sertac Karaman](http://karaman.mit.edu/){:target="_blank"} in the [Autonomy and Embedded Robotics Accelerated (AERA) group](http://aera.mit.edu/){:target="_blank"}. Previously, I was a Postdoctoral Associate at LIDS. I obtained my PhD degree from the [Department of Aeronautics and Astronautics](https://aeroastro.mit.edu){:target="_blank"} at MIT, and BSc and MSc degrees from [Delft University of Technology](https://www.tudelft.nl){:target="_blank"}.
 
-I am an applied researcher, in love with fundamental science.
+I am an applied researcher, with a love for fundamental science.
 My research on innovative mobile autonomy is at the intersection of aerospace/mechanical engineering and robotics, and
 combines aspects of control theory and motion planning with machine learning, optimization, applied aerodynamics, and vehicle and electronics design.
 I am particularly interested in leveraging methods from robust control theory and differential games to safely bring fast and highly-maneuverable robots out of research labs and into the real world.
@@ -18,6 +18,19 @@ I am particularly interested in leveraging methods from robust control theory an
 
 News
 ======
+<!-- * **October 2022** We'll present our recent work on Trajectory Generation and Tracking for an Agile Fixed-Wing VTOL Aircraft at IROS in the [Workshop on Agile Robotics: Perception, Learning, Planning, and Control](https://wp.nyu.edu/workshopiros2022agilerobotics/){:target="_blank"}. -->
+
+* **September 2022** Our paper on a novel learning-based trajectory generation algorithm was accepted for presentation at CoRL 2022: [OpenReview](https://openreview.net/forum?id=ZJYbW8Cwys){:target="_blank"}.
+
+* **August 2022** Our paper on INDI for agile maneuvering of a tailsitter aircraft is accepted for publication in AIAA Journal of Guidance, Control, and Dynamics and will soon be available Open Access. Pre-print available now: [arXiv:2207.13218](https://arxiv.org/abs/2207.13218){:target="_blank"}.
+
+* **July 2022** Uploaded two exciting new videos with aerobatic tailsitter maneuvers (including an airshow with three aircraft!) to [YouTube](https://youtu.be/PLjN2UNz8Mg){:target="_blank"} and the [project webpage](https://aera.mit.edu/projects/aerobatic-maneuvers-for-fixed-wing-vtol-aircraft){:target="_blank"}.
+
+* **July 2022** Two new pre-prints on tracking and generation of aerobatic fixed-wing trajectories are online: [arXiv:2207.13218](https://arxiv.org/abs/2207.13218){:target="_blank"} and [arXiv:2207.03524](https://arxiv.org/abs/2207.03524){:target="_blank"}.
+
+* **April 2022** Our paper on Cooperative Multi-Agent Trajectory Generation with Modular Bayesian Optimization is accepted at [RSS 2022](https://roboticsconference.org/program/papers/060/){:target="_blank"}.
+
+* **November 2021** I'll continue working at MIT as a Postdoctoral Associate.
 
 * **October 2021** I successfully defended and submitted my PhD thesis on Algorithms for Generation and Tracking of Fast and Agile Flight Trajectories!
 
