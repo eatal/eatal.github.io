@@ -18,7 +18,7 @@ I am particularly interested in leveraging methods from robust control theory an
 
 News
 ======
-<!-- * **October 2022** We'll present our recent work on Trajectory Generation and Tracking for an Agile Fixed-Wing VTOL Aircraft at IROS in the [Workshop on Agile Robotics: Perception, Learning, Planning, and Control](https://wp.nyu.edu/workshopiros2022agilerobotics/){:target="_blank"}. -->
+* **October 2022** We'll present our recent work on Trajectory Generation and Tracking for an Agile Fixed-Wing VTOL Aircraft at IROS in the [Workshop on Agile Robotics: Perception, Learning, Planning, and Control](https://wp.nyu.edu/workshopiros2022agilerobotics/){:target="_blank"}.
 
 * **September 2022** Our paper on a novel learning-based trajectory generation algorithm was accepted for presentation at CoRL 2022: [OpenReview](https://openreview.net/forum?id=ZJYbW8Cwys){:target="_blank"}.
 
