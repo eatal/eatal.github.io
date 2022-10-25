@@ -14,7 +14,7 @@ author_profile: true
 
 ## Journal
 
-0. **Tal, E.**, Karaman, S., Global Incremental Flight Control for Agile Maneuvering of a Tailsitter Flying Wing, AIAA Journal of Guidance, Control, and Dynamics, 2022 [Video](https://youtu.be/OiD0rQMQ0r0){:target="_blank"}, [PDF](https://arxiv.org/pdf/2207.13218.pdf){:target="_blank"}
+0. **Tal, E.**, Karaman, S., Global Incremental Flight Control for Agile Maneuvering of a Tailsitter Flying Wing, AIAA Journal of Guidance, Control, and Dynamics, October 2022 [Video](https://youtu.be/OiD0rQMQ0r0){:target="_blank"}, [PDF](https://doi.org/10.2514/1.G006645){:target="_blank"}
 0. Ryou, G., **Tal, E.**, Karaman, S., Multi-Fidelity Black-Box Optimization for Time-Optimal Quadrotor Maneuvers, The International Journal of Robotics Research (IJRR), July 2021 [Video](https://youtu.be/FjCIZ5lSRg0){:target="_blank"}, [PDF](https://arxiv.org/pdf/2006.02513.pdf){:target="_blank"}, [GitHub](https://github.com/mit-aera/){:target="_blank"}
 0. **Tal, E.**, Karaman, S., Accurate Tracking of Aggressive Quadrotor Trajectories using Incremental Nonlinear Dynamic Inversion and Differential Flatness, IEEE Transactions on Control Systems Technology, vol. 29, no. 3, pp. 1203-1218, May 2021 [Video](https://youtu.be/K15lNBAKDCs){:target="_blank"}, [PDF](https://arxiv.org/pdf/1809.04048.pdf){:target="_blank"}
 {: reversed="reversed" style="font-size:0.8em;"}

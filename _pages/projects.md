@@ -13,7 +13,7 @@ A complete list of publications can be found on the [Publications page](/publica
 [![Aerobatic Trajectory Generation and Tracking for Fixed-Wing VTOL Aircraft](/images/tailsitter.png){:height="50%" width="30%" style="float:left; padding-right:25pt; padding-below:10pt; padding-top:10pt" }](/tailsitter/)
 <!-- <img style="float: left;" src="/images/tailsitter.png"> -->
 * <small>AIAA Aviation Forum, 2021 (**Best Student Paper in V/STOL Aircraft Systems**) [Video](https://youtu.be/tGQO-6DPT1M){:target="_blank"}, [PDF](/files/TalKaraman_Aviation2021.pdf){:target="_blank"}</small>
-* <small>AIAA Journal of Guidance, Control, and Dynamics (JGCD), 2022 [Video](https://youtu.be/OiD0rQMQ0r0){:target="_blank"}, [PDF](https://arxiv.org/pdf/2207.13218.pdf){:target="_blank"}</small>
+* <small>AIAA Journal of Guidance, Control, and Dynamics (JGCD), October 2022 [Video](https://youtu.be/OiD0rQMQ0r0){:target="_blank"}, [PDF](https://doi.org/10.2514/1.G006645){:target="_blank"}</small>
 * <small>arXiv Pre-print, 2022 [Video](https://youtu.be/PLjN2UNz8Mg){:target="_blank"}, [PDF](https://arxiv.org/pdf/2207.03524.pdf){:target="_blank"}</small>
 &nbsp;
 

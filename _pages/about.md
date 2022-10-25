@@ -22,7 +22,7 @@ News
 
 * **September 2022** Our paper on a novel learning-based trajectory generation algorithm was accepted for presentation at CoRL 2022: [OpenReview](https://openreview.net/forum?id=ZJYbW8Cwys){:target="_blank"}.
 
-* **August 2022** Our paper on INDI for agile maneuvering of a tailsitter aircraft is accepted for publication in AIAA Journal of Guidance, Control, and Dynamics and will soon be available Open Access. Pre-print available now: [arXiv:2207.13218](https://arxiv.org/abs/2207.13218){:target="_blank"}.
+* **August 2022** Our paper on INDI for agile maneuvering of a tailsitter aircraft is accepted for publication in AIAA Journal of Guidance, Control, and Dynamics and available [Open Access](https://doi.org/10.2514/1.G006645){:target="_blank"}.
 
 * **July 2022** Uploaded two exciting new videos with aerobatic tailsitter maneuvers (including an airshow with three aircraft!) to [YouTube](https://youtu.be/PLjN2UNz8Mg){:target="_blank"} and the [project webpage](https://aera.mit.edu/projects/aerobatic-maneuvers-for-fixed-wing-vtol-aircraft){:target="_blank"}.
 
