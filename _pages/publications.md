@@ -21,6 +21,7 @@ author_profile: true
 
 ## Conference
 
+0. Tripathi, V.\*, Kadota, I.\*, **Tal, E.**\*, Rahman, S., Warren, A., Karaman, S., Modiano, E., WiSwarm: Wireless Networking for Monitoring and Control Using a Heterogeneous Swarm of UAVs, IEEE Conference on Computer Communications (INFOCOM), May 2023 [Video](https://youtu.be/zGjGxK5AXFk){:target="_blank"}, [PDF](https://arxiv.org/pdf/2212.03298.pdf){:target="_blank"}
 0. Ryou, G., **Tal, E.**, Karaman, S., Real-Time Generation of Time-Optimal Quadrotor Trajectories with Semi-Supervised Seq2Seq Learning, Conference on Robot Learning (CoRL), December 2022
 0. **Tal, E.**, Ryou, G., Karaman, S., Trajectory Generation and Tracking for an Agile Fixed-Wing VTOL Aircraft, Workshop on Agile Robotics: Perception, Learning, Planning, and Control, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), October 2022 [PDF](/files/TalRyou_IROS2022.pdf){:target="_blank"}
 0. Ryou, G., **Tal, E.**, Karaman, S., Cooperative Multi-Agent Trajectory Generation with Modular Bayesian Optimization, Robotics: Science and Systems (RSS), July 2022 [Video](https://youtu.be/rxQiNeXvLTc){:target="_blank"}, [PDF](https://arxiv.org/pdf/2206.00726.pdf){:target="_blank"}
